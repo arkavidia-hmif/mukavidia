@@ -1,1 +1,1 @@
-{"include":["*.js"],"compilerOptions":{"baseUrl":"/private/var/folders/c9/v9784cnx02g58brh1h_7_f480000gn/T/skylight-typedefs","allowJs":true,"checkJs":true,"outDir":"/private/var/folders/c9/v9784cnx02g58brh1h_7_f480000gn/T/skylight-typedefs/out-dir"}}
+{"compilerOptions":{"baseUrl":"C:/Users/didit/AppData/Local/Temp/skylight-typedefs","allowJs":true,"checkJs":true,"outDir":"C:/Users/didit/AppData/Local/Temp/skylight-typedefs/out-dir"},"include":["*.js"]}
